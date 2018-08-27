@@ -1,2 +1,1 @@
-Testing out echo command to add text to a file
-Echo will delete all the text inside...
+Changed the file
