@@ -1,2 +1,1 @@
-Adding some text.
-Some more text.
+Testing out echo command to add text to a file
